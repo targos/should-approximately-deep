@@ -1,0 +1,28 @@
+{
+    "name": "should-approximately-deep",
+    "version": "1.0.0",
+    "description": "Extend should.js to assert arrays with approximate values",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "./node_modules/.bin/mocha --reporter spec --bail"
+    },
+    "repository": "https://github.com/targos/should-approximately-deep",
+    "keywords": [
+        "should",
+        "approximately",
+        "deep"
+    ],
+    "author": "Michaël Zasso",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/targos/should-approximately-deep/issues"
+    },
+    "homepage": "https://github.com/targos/should-approximately-deep",
+    "devDependencies": {
+        "mocha": "^1.21.5",
+        "should": "^4.1.0"
+    }
+}
