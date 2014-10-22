@@ -4,8 +4,12 @@ Extend should.js to assert arrays with approximate values
 
 ## Installation
 
-```js
-npm install should-approximately-deep
+```
+npm install should-approximately-deep --save-dev
+```
+
+```
+require('should-approximately-deep');
 ```
 
 ## Usage
