@@ -1,6 +1,6 @@
 {
     "name": "should-approximately-deep",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Extend should.js to assert arrays with approximate values",
     "main": "index.js",
     "directories": {
